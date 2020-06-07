@@ -1,0 +1,65 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutSVDN.cshtml";
+}
+
+    <div id="wrapper">
+        <!-- Sidebar -->
+        
+        <!-- End of Sidebar -->
+        <!-- Content Wrapper -->
+        <div class="wrapper" style="margin: 55px 60px;">
+            <div class="title" style="display: flex;justify-content: space-between;
+              border-bottom: 0.5px dashed blue;">
+                <div style="margin-top: 20px;">
+                    <h2>SINH VIÊN NĂM TỐT</h2>
+                </div>
+
+            </div>
+            <table class="table">
+                <div style="margin-top: 30px;" class="content">
+
+                    <thead>
+                        <tr>
+
+                            <th scope="col">MSSV</th>
+                            <th scope="col">Họ Tên</th>
+                            <th scope="col">Khoa</th>
+                            <th scope="col">Mã Lớp</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            @if (Session["MSSV"] != null)
+                            {
+                                <td>
+                                    @Session["UserName"].ToString()
+                                </td>
+                                <td>
+                                    @Session["MSSV"].ToString()
+                                </td>
+                                <td>
+                                    @Session["Khoa"].ToString()
+                                </td>
+                                <td>
+                                    @Session["MaLop"].ToString()
+                                </td>
+
+                            }
+
+                        </tr>
+
+                        <tr>
+                            <a href="@Url.Action("Suasv", "Admin", new { id = @Session["MSSV"]  })" class="btn btn-info" role="button" style="background-color:green; border:none"><i class="fa fa-edit"></i></a>
+                        </tr>
+                    </tbody>
+
+
+                </div>
+            </table>
+        </div>
+        <!-- End of Content Wrapper -->
+    </div>
+
+

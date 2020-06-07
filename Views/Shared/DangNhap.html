@@ -1,0 +1,208 @@
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Đăng nhập</title>
+
+    <link rel="stylesheet" href="/class.css">
+    <link rel="stylesheet" href="/login.css">
+    <script type="text/javascript">
+        function windowLoad() {
+            document.getElementById("txtLoginId").focus();
+            document.getElementById("txtLoginId").select();
+        }
+
+        function loadSchedule() {
+            //document.getElementById("divEnrschedule").innerHTML = document.getElementById("ifrEnrschedule").contentWindow.document.getElementById("divEnrscheduleContent").innerHTML;
+        }
+
+        function chkLogin() {
+
+            if (parseInt('97') >= parseInt('30000')) {
+                alert(msg);
+                return false;           
+            }
+            if (document.getElementById("txtLoginId").value == "") {
+                alert("Vui lòng nhập tên truy cập!");
+                document.getElementById("txtLoginId").focus();
+                return false;
+            }
+            if (document.getElementById("txtPassword").value == "") {
+                alert("Vui lòng nhập mật khẩu!");
+                document.getElementById("txtPassword").focus();
+                return false;
+            }
+            document.getElementById("chkSubmit").value = "ok";
+            return true; 
+        }
+    </script>
+</head>
+
+<body onLoad="javascript:windowLoad();">
+    <form method="post" id="frmLogin" action="" onSubmit="javascript:return chkLogin();">
+        <input type="hidden" name="chkSubmit" id="chkSubmit" value="">
+        <div style="width:100%">
+            <div id="divWelcome">
+                <div id="welcomeLogo">
+                    <img src="/logo.png" title="VNU-Logo" height="99px" width="308px" border="0" />
+
+                </div>
+                <div id="welcomeTitle">
+                    <p style="margin-top:25px;">CỔNG THÔNG TIN ĐÀO TẠO ĐẠI HỌC </p>
+                    <p> </p>
+                </div>
+
+
+            </div>
+            <div class="loginLeft">
+                <div id="divEnrschedule">
+                    <h4>THÔNG BÁO</h4>
+                    <div>
+                        <ul>
+                            <li><stronzg><a href="https://" target="_blank">(Video) Hướng dẫn sử dụng Cổng th&ocirc;ng
+                                        tin đ&agrave;o tạo - Đăng k&yacute; học</a><a
+                                        href="http:/bit.ly/vnu-indoor-map"><img
+                                            src="http://www.vnu.edu.vn/home/images/icon_new1.gif" alt="" width="31"
+                                            height="15" /></a></strong></li>
+                            <li><a href="https://" target="_blank">(Video) B&agrave;i giảng m&ocirc;n Tin học cơ
+                                    sở&nbsp;</a><strong>&nbsp;|&nbsp;</strong><a href="" target="_blank">C&acirc;u hỏi
+                                    &ocirc;n tập</a></li>
+                            <li><a href="" target="_blank">Kỹ năng học tập hiệu quả ở bậc đại học&nbsp;</a></li>
+                            <li><a href="https://" target="_blank">(Video) Hướng dẫn đăng k&yacute; học bổng</a></li>
+                        </ul>
+                        <h4>Cổng th&ocirc;ng tin d&agrave;nh cho sinh vi&ecirc;n đ&atilde; tốt nghiệp</h4>
+                        <ul>
+                            <li><a href="http://" target="_blank">http://svtotnghiep.daotao.hutech.edu.vn</a></li>
+                        </ul>
+                    </div>
+                    <h4>HƯỚNG DẪN SỬ DỤNG</h4>
+                    <ul>
+                        <li>
+                            <a href="/HuongDanLayLaiMatKhau.doc">Hướng dẫn lấy lại mật khẩu</a>
+                        </li>
+                        <li>
+                            <a href="/Huongdandangkyhoc_truongkhac_maclenin.doc">Hướng dẫn đăng ký môn học </a>
+                        </li>
+                        <li>
+                            <a href="/Huongdandangkyhoc.doc">Hướng dẫn nhận các giấy tờ đã đăng ký (vd: giấy tạm hoãn
+                                quân sự, giấy vay tiền )</a>
+                        </li>
+
+                        <li>
+                            <a href="/huongdankhaibaothongtinHSSV.doc">Hướng dẫn khai báo thông tin sinh viên</a>
+                        </li>
+                        <li>
+                            <a href="/huongdanduyethosoSV.doc">Cán bộ quản lý: Nhấn vào đây để tải tài liệu hướng dẫn
+                                duyệt hồ sơ sinh viên về máy</a>
+                        </li>
+                        <!--<li style="list-style:none;">
+                	<i><font color="red" size="3"> ĐT hỗ trợ: 04.8587.5905 - Email: hotrodaotao@vnu.edu.vn</font></i>
+                    <font size="1">
+                    <br />
+                    Lưu ý: Chỉ hỗ trợ đăng nhập hệ thống và đăng ký môn học.
+                    <br />
+                    Mọi thắc mắc về điểm hoặc các vấn đề khác vui lòng liên hệ với trường bạn theo học.
+                    </font>
+                </li>-->
+                    </ul>
+                </div>
+
+            </div>
+
+            <div class="loginRight">
+
+                <div id="divLogin">
+                    <div class="headerLogin">ĐĂNG NHẬP</div>
+                    <div id="loginSeparate"></div>
+                    <div class="content">
+                        <table border="0" cellspacing="2" cellpadding="2" style="border-collapse:collapse; width:100%;">
+                            <tr>
+                                <td colspan="2" valign="top">
+
+                                    <table border="0" cellspacing="10" cellpadding="10"
+                                        style="border-collapse:collapse; width:100%;">
+                                        <tr>
+                                            <td>
+                                                <strong>Tên truy cập</strong>
+                                                <br />
+                                                <input name="txtLoginId" id="txtLoginId" class="inputbox" type="text" />
+                                            </td>
+                                        </tr>
+                                        <tr>
+
+                                            <td>
+                                                <strong> Mật khẩu </strong>
+                                                <br />
+                                                <input name="txtPassword" id="txtPassword" value="" class="inputbox"
+                                                    type="password">
+                                            </td>
+                                        </tr>
+                                        <tr>
+
+                                            <td>
+                                                Đăng nhập để
+                                                <br />
+                                                <select type="text" name="txtSel" id="txtSel" class="inputbox">
+
+                                                    <option value="2">Khai báo thông tin sinh viên</option>
+                                                </select>
+                                            </td>
+                                        </tr>
+
+                                        <tr>
+                                            <td style="text-align: center;">
+
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <a href="http://" target="_blank">Quên mật khẩu?</a>
+                                </td>
+                                <td align="right">
+                                    <input type="submit" value="Đăng nhập" class="button"
+                                        style="height:35px;min-width:100px;" />
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <div id="footer">
+                <div id="footerLeft">
+                    <span> Số người đang online </span>
+                    <br />
+                    <span class="numberOnline">
+                        100
+                    </span>
+                </div>
+                <div class="footerSep"></div>
+                <div id="footerRight">
+                    Công thông tin đào tạo Đại Học Hutech - Phát triển bởi Trung tâm Ứng dụng một người<br />
+                    số 11 Tôn Thất Tùng , Quận1 , TPHCM, Việt Nam <br />
+                    Webmaster: baonguyenquoc14@gmail.com <br />
+                </div>
+            </div>
+        </div>
+
+    </form>
+
+    <script type="text/javascript">
+        var MaxUserOnline = parseInt('30000');
+
+        var isOnRegister = 'True';
+        var TotalCurrentUserOnline = parseInt('97');
+        var msg = "Hệ thống đang bận thực hiện xử lý các tác vụ đăng ký học.";
+        msg = msg + "\nBạn vui lòng thử lại sau";
+        if (isOnRegister == 'True' && TotalCurrentUserOnline >= MaxUserOnline && MaxUserOnline > 0) {
+            alert(msg);
+
+        }
+
+    </script>
+</body>
+
+</html>

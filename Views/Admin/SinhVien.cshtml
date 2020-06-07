@@ -1,0 +1,110 @@
+﻿@using BookStore.Model
+@model IEnumerable<BookStore.Model.SinhVien>
+
+@{
+    ViewBag.Title = "SinhVien";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+
+
+
+@helper Truncate(string input, int length)
+{
+    if (input.Length < length)
+    {
+        @input
+    }
+    else
+    {
+        @input.Substring(0, length)<text>...</text>
+    }
+}
+<h2 style="color:orangered">Thông tin Sinh Viên</h2>
+
+<p>
+    @*<a href="@Url.Action("Create", "Create")" class="btn btn-info" role="button" style="border:none"><i class="material-icons" ></i></a>*@
+    <a href="@Url.Action("Themmoisv","Admin")" class="btn btn-info" role="button">Thêm sinh viên</a>
+</p>
+<table class="table">
+    <tr>
+        @*<th>
+                @Html.DisplayNameFor(model => model.HoTen)
+            </th>*@
+        <th style="width:200px">
+            Họ Tên:
+        </th>
+        @*<th>
+                @Html.DisplayNameFor(model => model.Matkhau)
+            </th>*@
+        <th style="width:100px">
+            Mật khẩu
+        </th>
+        @*<th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>*@
+        <th style="width:120px">
+            Email
+        </th>
+        @*<th>
+                @Html.DisplayNameFor(model => model.Diachisv)
+            </th>*@
+        <th style="width:120px">
+            Địa chỉ
+        </th>
+        @*<th>
+                @Html.DisplayNameFor(model => model.Dienthoaisv)
+            </th>*@
+        <th style="width:100px">
+            Điện thoại
+        </th>@*<th>
+                @Html.DisplayNameFor(model => model.Dienthoaisv)
+            </th>*@
+        <th style="width:120px">
+            Lớp
+        </th>
+        @*<th>
+                @Html.DisplayNameFor(model => model.Ngaysinh)
+            </th>*@
+        <th style="width:120px">
+            Ngày sinh
+        </th>
+        <th style="width:200px"></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.HoTen)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Matkhau)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Diachisv)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Dienthoaisv)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaLop)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ngaysinh)
+            </td>
+            <td>
+                @*@Html.ActionLink("Edit", "Edit", new { id = item.Masv }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.Masv }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Masv })*@
+
+                <a href="@Url.Action("Suasv", "Admin", new { id = item.Masv })" class="btn btn-info" role="button" style="background-color:green; border:none"><i class="fa fa-edit"></i></a>
+                <a href="@Url.Action("Xoasv", "Admin", new { id = item.Masv })" class="btn btn-info" style="background-color:red;border:none" role="button"><i class="fa fa-edit"></i></a>
+            </td>
+        </tr>
+    }
+
+</table>

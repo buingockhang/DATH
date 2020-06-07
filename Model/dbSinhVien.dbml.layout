@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11.25, 15.25" name="dbSinhVien">
+  <DataContextMoniker Name="/dbSinhVienDataContext" />
+  <nestedChildShapes>
+    <classShape Id="8cc70435-1bb9-412a-9749-281291f8efa7" absoluteBounds="0.75, 0.875, 2, 1.3862939453125">
+      <DataClassMoniker Name="/dbSinhVienDataContext/ADMIN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dab3b82d-b9b1-42c6-b6e6-3a17dd91e867" absoluteBounds="0.765, 1.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b9969b97-a1db-44bd-90b1-07763f426961" absoluteBounds="9, 6.5, 2, 1.9631982421874996">
+      <DataClassMoniker Name="/dbSinhVienDataContext/BangTieuChi" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ca1e75da-994e-4707-bbe5-86a9dd8121f2" absoluteBounds="9.015, 6.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cc27b803-475e-4fbb-89bb-ee581c71c0a7" absoluteBounds="9, 0.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/dbSinhVienDataContext/KetQua" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f512a893-0cd7-49b8-a710-40f6bb2f4baf" absoluteBounds="9.015, 1.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4a27caab-1d30-4c66-b089-01239fc2d392" absoluteBounds="9, 3.875, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/dbSinhVienDataContext/KetQuaPT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6e39831f-190c-48b9-b7d3-42d8cdf400b6" absoluteBounds="9.015, 4.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ce26dec8-f215-4763-b924-a91be514cb74" absoluteBounds="0.75, 4, 2, 1.193992513020834">
+      <DataClassMoniker Name="/dbSinhVienDataContext/Khoa" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d7ad63fc-5961-49bc-a595-0e68466da2fd" absoluteBounds="0.765, 4.46, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2057ae82-127f-4874-b0db-fa0102598dd8" absoluteBounds="3.5, 3.875, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/dbSinhVienDataContext/Lop" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5b4dd6a4-218d-441c-b596-88d92c233a3a" absoluteBounds="3.515, 4.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1574d2c5-b374-4dbf-a53f-1e03838a0950" absoluteBounds="0.75, 11.5, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/dbSinhVienDataContext/MaLoaiTV" />
+      <nestedChildShapes>
+        <elementListCompartment Id="eb22317d-9309-428e-b681-832e7e7cbc48" absoluteBounds="0.765, 11.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3dacd983-cce9-4144-9662-b86bc588328f" absoluteBounds="3.5, 10.375, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/dbSinhVienDataContext/MaLoaiTV_Quyen" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b7c1722f-b1b8-49e4-bd52-b33dd35323ab" absoluteBounds="3.515, 10.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c6baedb9-31b8-48ac-be01-c935ed94ee91" absoluteBounds="6.25, 1, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/dbSinhVienDataContext/Mon" />
+      <nestedChildShapes>
+        <elementListCompartment Id="22b49f2e-5ed3-4234-9c3f-f2f3e7512a31" absoluteBounds="6.265, 1.46, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f5230032-dfe0-4592-80bd-818a5c8cfe2b" absoluteBounds="6.25, 6.625, 2, 1.7708968098958335">
+      <DataClassMoniker Name="/dbSinhVienDataContext/PhongTrao" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c2df1fdd-f93a-452c-9555-1cd72976db42" absoluteBounds="6.265, 7.085, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0659e1d0-16dc-48c0-95b6-1d025b7d0804" absoluteBounds="0.75, 9.5, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/dbSinhVienDataContext/Quyen" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e54bf5e0-7680-4291-9183-ffe3ec8dd7ed" absoluteBounds="0.765, 9.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="810d7bd8-500c-4398-9cfb-d51e1a1686bb" absoluteBounds="6.25, 3.25, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/dbSinhVienDataContext/SinhVien" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fcc7a9e6-ab97-411c-9ccd-f9534d168459" absoluteBounds="6.265, 3.71, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="48dfd33f-be51-43f3-8e54-cd510d1980d0" absoluteBounds="3.5, 13.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/dbSinhVienDataContext/ThanhVien" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a4ec9c0d-e943-498c-823a-2d433301a231" absoluteBounds="3.515, 13.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 4.59699625651042); (3.5 : 4.59699625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbSinhVienDataContext/Khoa/Khoa_Lop" />
+      <nodes>
+        <classShapeMoniker Id="ce26dec8-f215-4763-b924-a91be514cb74" />
+        <classShapeMoniker Id="2057ae82-127f-4874-b0db-fa0102598dd8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 11.6306469726562); (3.5 : 11.6306469726562)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbSinhVienDataContext/MaLoaiTV/MaLoaiTV_MaLoaiTV_Quyen" />
+      <nodes>
+        <classShapeMoniker Id="1574d2c5-b374-4dbf-a53f-1e03838a0950" />
+        <classShapeMoniker Id="3dacd983-cce9-4144-9662-b86bc588328f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 2.19399251302083); (8.625 : 2.56899251302083); (8.625 : 7.48159912109375); (9 : 7.48159912109375)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbSinhVienDataContext/Mon/Mon_BangTieuChi" />
+      <nodes>
+        <classShapeMoniker Id="c6baedb9-31b8-48ac-be01-c935ed94ee91" />
+        <classShapeMoniker Id="b9969b97-a1db-44bd-90b1-07763f426961" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 1.56574375651042); (8.72916666666667 : 1.56574375651042 : JumpStart); (8.89583333333333 : 1.56574375651042 : JumpEnd); (9 : 1.56574375651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbSinhVienDataContext/Mon/Mon_KetQua" />
+      <nodes>
+        <classShapeMoniker Id="c6baedb9-31b8-48ac-be01-c935ed94ee91" />
+        <classShapeMoniker Id="cc27b803-475e-4fbb-89bb-ee581c71c0a7" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 6.6862992741887); (8.56607443490112 : 6.37022483928758 : JumpStart); (8.68392556509888 : 6.25237370908982 : JumpEnd); (8.8125 : 6.1237992741887); (8.8125 : 4.56814697265625); (9 : 4.56814697265625)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbSinhVienDataContext/PhongTrao/PhongTrao_KetQuaPT" />
+      <nodes>
+        <classShapeMoniker Id="f5230032-dfe0-4592-80bd-818a5c8cfe2b" />
+        <classShapeMoniker Id="4a27caab-1d30-4c66-b089-01239fc2d392" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 10.5344962565104); (3.5 : 10.5344962565104)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbSinhVienDataContext/Quyen/Quyen_MaLoaiTV_Quyen" />
+      <nodes>
+        <classShapeMoniker Id="0659e1d0-16dc-48c0-95b6-1d025b7d0804" />
+        <classShapeMoniker Id="3dacd983-cce9-4144-9662-b86bc588328f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 5.72856307752404); (8.56607443490112 : 6.04463751242516 : JumpStart); (8.68392556509888 : 6.16248864262292 : JumpEnd); (8.6875 : 6.16606307752404); (8.6875 : 6.95954756054687); (9 : 6.95954756054687)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbSinhVienDataContext/SinhVien/SinhVien_BangTieuChi" />
+      <nodes>
+        <classShapeMoniker Id="810d7bd8-500c-4398-9cfb-d51e1a1686bb" />
+        <classShapeMoniker Id="b9969b97-a1db-44bd-90b1-07763f426961" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 3.31153746153846); (8.56607443490112 : 2.99546302663734 : JumpStart); (8.68392556509888 : 2.87761189643958 : JumpEnd); (8.8125 : 2.74903746153846); (8.8125 : 1.12661987825521); (9 : 1.12661987825521)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbSinhVienDataContext/SinhVien/SinhVien_KetQua" />
+      <nodes>
+        <classShapeMoniker Id="810d7bd8-500c-4398-9cfb-d51e1a1686bb" />
+        <classShapeMoniker Id="cc27b803-475e-4fbb-89bb-ee581c71c0a7" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 4.15907348632813); (8.54166666666667 : 4.15907348632812 : JumpStart); (8.70833333333333 : 4.15907348632813 : JumpEnd); (9 : 4.15907348632813)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbSinhVienDataContext/SinhVien/SinhVien_KetQuaPT" />
+      <nodes>
+        <classShapeMoniker Id="810d7bd8-500c-4398-9cfb-d51e1a1686bb" />
+        <classShapeMoniker Id="4a27caab-1d30-4c66-b089-01239fc2d392" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 4.56814697265625); (6.25 : 4.56814697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbSinhVienDataContext/Lop/Lop_SinhVien" />
+      <nodes>
+        <classShapeMoniker Id="2057ae82-127f-4874-b0db-fa0102598dd8" />
+        <classShapeMoniker Id="810d7bd8-500c-4398-9cfb-d51e1a1686bb" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 12.6939925130208); (1.75 : 14.1642976888021); (3.5 : 14.1642976888021)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbSinhVienDataContext/MaLoaiTV/MaLoaiTV_ThanhVien" />
+      <nodes>
+        <classShapeMoniker Id="1574d2c5-b374-4dbf-a53f-1e03838a0950" />
+        <classShapeMoniker Id="48dfd33f-be51-43f3-8e54-cd510d1980d0" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

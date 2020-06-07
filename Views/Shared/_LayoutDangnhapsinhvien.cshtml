@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Đăng nhập</title>
+
+    <link href="~/Content/class.css" rel="stylesheet" />
+   
+    <link href="~/Content/login.css" rel="stylesheet" />
+    <script type="text/javascript">
+        function windowLoad() {
+            document.getElementById("txtLoginId").focus();
+            document.getElementById("txtLoginId").select();
+        }
+
+        function loadSchedule() {
+            //document.getElementById("divEnrschedule").innerHTML = document.getElementById("ifrEnrschedule").contentWindow.document.getElementById("divEnrscheduleContent").innerHTML;
+        }
+
+        function chkLogin() {
+
+            if (parseInt('97') >= parseInt('30000')) {
+                alert(msg);
+                return false;
+            }
+            if (document.getElementById("txtLoginId").value == "") {
+                alert("Vui lòng nhập tên truy cập!");
+                document.getElementById("txtLoginId").focus();
+                return false;
+            }
+            if (document.getElementById("txtPassword").value == "") {
+                alert("Vui lòng nhập mật khẩu!");
+                document.getElementById("txtPassword").focus();
+                return false;
+            }
+            document.getElementById("chkSubmit").value = "ok";
+            return true;
+        }
+    </script>
+</head>
+<body onLoad="javascript:windowLoad();">
+
+    <form method="post" id="frmLogin" action="" onSubmit="javascript:return chkLogin();">
+      
+        <div>
+            @RenderBody()
+        </div>
+    </form>
+
+    <script type="text/javascript">
+        var MaxUserOnline = parseInt('30000');
+
+        var isOnRegister = 'True';
+        var TotalCurrentUserOnline = parseInt('97');
+        var msg = "Hệ thống đang bận thực hiện xử lý các tác vụ đăng ký học.";
+        msg = msg + "\nBạn vui lòng thử lại sau";
+        if (isOnRegister == 'True' && TotalCurrentUserOnline >= MaxUserOnline && MaxUserOnline > 0) {
+            alert(msg);
+
+        }
+
+    </script>
+</body>
+
+</html>
+

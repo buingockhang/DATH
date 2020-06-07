@@ -1,0 +1,222 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <link rel="shortcut icon" type="png" href="/images/logo.png" />
+    <title>Tai Lieu</title>
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
+    <!-- Custom fonts for this template-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous" />
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet" />
+    <!-- Custom styles for this template-->
+
+    <link href="/Content/admin-2.css" rel="stylesheet" />
+    <link href="/Content/sb-admin-2.css" rel="stylesheet" />
+    <link href="/Content/all.min.css" rel="stylesheet" type="text/css" />
+
+    <script type="text/javascript" src="http://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=sd3gyxMAhHZurvlcqY_5kJHWVsEgCZt_tpWiy6ndC0N_M7ipJV3H2tzaKB0ISFwLVZZamS-tuDmUM-PxbSGPaw" charset="UTF-8"></script>
+    <script src="/tinymce/tinymce_5.0.3/tinymce/js/tinymce/tinymce.min.js"></script>
+    <script>
+        tinymce.init({
+            selector: "textarea"
+        });
+    </script>
+</head>
+
+<body id="page-top">
+    <!-- Page Wrapper -->
+    <div id="wrapper">
+        <!-- Sidebar -->
+        <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
+            <!-- Sidebar - Brand -->
+            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="indexAdmin.html">
+                <div class="sidebar-brand-text mx-3">Nguyễn Quốc Bảo</< /div>
+            </a>
+            <!-- Divider -->
+            <hr class="sidebar-divider my-0">
+            <!-- Nav Item - Dashboard -->
+            <li class="nav-item active">
+                <a class="nav-link" href="/">
+                    <i class="fas fa-fw fa-tachometer-alt"></i>
+                    <span>Trang chủ</span>
+                </a>
+            </li>
+            <!-- Divider -->
+            <hr class="sidebar-divider">
+            <!-- Heading -->
+            <div class="sidebar-heading">
+                Quản lý
+            </div>
+            <!-- Nav Item - Pages Manage -->
+            <li class="nav-item">
+                <a class="nav-link" href="/Admin/SinhVien">
+                    <i class="fas fa-fw fa-table"></i>
+                    <span>Thông tin sinh viên</span>
+                </a>
+            </li>
+            <!-- Nav Item - Utilities Collapse Menu -->
+            <li class="nav-item">
+                <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseUtilities" aria-expanded="true" aria-controls="collapseUtilities">
+                    <i class="fas fa-fw fa-wrench"></i>
+                    <span>Điểm sinh viên</span>
+                </a>
+                <div id="collapseUtilities" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
+                    <div class="bg-white py-2 collapse-inner rounded">
+                        <h6 class="collapse-header">thông tin</h6>
+                        <a class="collapse-item" href=/Admin/Khoa>Điểm cá nhân</a>
+                        <a class="collapse-item" href=/Admin/Lop>Xếp loại</a>
+                    </div>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href=/Admin/DonHang>
+                    <i class="fas fa-luggage-cart"></i>
+                    <span>Sinh viên năm tốt</span>
+                </a>
+            </li>
+
+            <!-- Nav Item - Pages statistical -->
+            <li class="nav-item">
+                <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                    <i class="fas fa-fw fa-cog"></i>
+                    <span>Khảo sát sinh viên</span>
+                </a>
+                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
+                    <div class="bg-white py-2 collapse-inner rounded">
+                        <h6 class="collapse-header">chỉ mục</h6>
+                        <a class="collapse-item" href="/ADMIN/APPS/Views/importShoesAdmin.html">Đánh giá giảng viên</a>
+                        <a class="collapse-item" href="/ADMIN/APPS/Views/exportShoesAdmin.html">Đánh giá môn học</a>
+                    </div>
+                </div>
+            </li>
+            <!-- Divider -->
+            <hr class="sidebar-divider">
+            <!-- Heading -->
+            <div class="sidebar-heading">
+                Addons
+            </div>
+            <!-- Nav Item - Pages Collapse Menu -->
+            <li class="nav-item">
+                <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapsePages" aria-expanded="true" aria-controls="collapsePages">
+                    <i class="fas fa-fw fa-folder"></i>
+                    <span>Hỗ trợ</span>
+                </a>
+                <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
+                    <div class="bg-white py-2 collapse-inner rounded">
+                        <h6 class="collapse-header">Liên lạc</h6>
+                        <a class="collapse-item" href="/ADMIN/APPS/Views/menuAdmin.html">thông tin sinh viên</a>
+                        <a class="collapse-item" href="/ADMIN/APPS/Views/carouselAdmin.html"></a>
+                        <a class="collapse-item" href="/ADMIN/APPS/Views/showingShoesAdmin.html">phòng trọ</a>
+                        <div class="collapse-divider"></div>
+                        <h6 class="collapse-header">INFO:</h6>
+                        <a class="collapse-item" href="/ADMIN/APPS/Views/ontactAdmin.html">nghĩa vụ quân sự</a>
+                        <a class="collapse-item" href="/ADMIN/APPS/Views/footerAdmin.html">các vấn đề khác</a>
+                    </div>
+                </div>
+            </li>
+            <!-- Nav Item - Pages Carts -->
+            <!-- Divider -->
+            <hr class="sidebar-divider d-none d-md-block">
+            <!-- Sidebar Toggler (Sidebar) -->
+            <div class="text-center d-none d-md-inline">
+                <button class="rounded-circle border-0" id="sidebarToggle"></button>
+            </div>
+        </ul>
+        <!-- End of Sidebar -->
+        <!-- Content Wrapper -->
+
+        <div class="wrapper" style="margin:75px 35px">
+            <span style="font-size: 30px; color: #3498db"><i class="fa fa-folder"></i></span>
+            <span style="font-size: 30px">Tài Liệu giáo trình </span>
+            <div>
+                <div style="background-color: #e7e7e7;" class="row">
+                    <div class="col-12">
+                        Học Kì 2 - 2019-2020
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-8">
+                        <p>1. [TH] Kiểm thử phần mềm (Nguyễn Đông Phương)
+                            Từ 31/05/2020 đến 31/05/2020</p>
+                    </div>
+                    <div class="cold-4">
+                        <a href="">Ấn để xem tài liệu</a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-8">
+                        <p>2. [LT] Công cụ và môi trường phát triển phần mềm (Nguyễn Mạnh Hùng)
+                            Từ 19/05/2020 đến 23/06/2020</p>
+                    </div>
+                    <div class="cold-4">
+                        <a href="">Ấn để xem tài liệu</a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-8">
+                        3. [LT] Lập trình Java (Trịnh Công Nhựt)
+                        Từ 22/05/2020 đến 26/06/2020
+                    </div>
+                    <div class="cold-4">
+                        <a href="">Ấn để xem tài liệu</a>
+                    </div>
+                </div>
+                <div style="margin-top: 40px;" class="row">
+                    <div class="col-8">
+                        4. [LT] Phát triển phần mềm mã nguồn mở (Nguyễn Đình Ánh)
+                        Từ 21/05/2020 đến 25/06/2020
+                    </div>
+                    <div class="cold-4">
+                        <a href="">Ấn để xem tài liệu</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End of Content Wrapper -->
+    </div>
+    <!-- End of Page Wrapper -->
+    <!-- Scroll to Top Button-->
+    <a class="scroll-to-top rounded" href="#page-top">
+        <i class="fas fa-angle-up"></i>
+    </a>
+    <!-- Logout Modal-->
+    <div class="modal fade" id="logoutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Bạn muốn đăng xuất?</h5>
+                    <button class="close" type="button" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                </div>
+                <div class="modal-body">Chọn "Đăng xuất" bên dưới nếu bạn đã sẵn sàng kết thúc phiên hiện tại của mình.
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-secondary" type="button" data-dismiss="modal">Hủy</button>
+                    <a class="btn btn-primary" href="/Admin/Login">Đăng xuất</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Bootstrap core JavaScript-->
+    <script src="/Scripts/jquery.min.js"></script>
+    <script src="/Scripts/bootstrap.bundle.js"></script>
+    <!-- Core plugin JavaScript-->
+    <script src="/Scripts/jquery.easing.min.js"></script>
+    <!-- Custom scripts for all pages-->
+    <script src="/Scripts/sb-admin-2.min.js"></script>>
+
+    <!-- Page level plugins -->
+    <script src="/Scripts/Chart.min.js"></script>
+    <!-- Page level custom scripts -->
+    <script src="/Scripts/chart-area-demo.js"></script>
+
+    <script src="/Scripts/chart-pie-demo.js"></script>
+
+</body></html>

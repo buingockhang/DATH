@@ -1,0 +1,1128 @@
+D:\web\BookStore\BookStore\bin\BookStore.dll.config
+D:\web\BookStore\BookStore\bin\BookStore.dll
+D:\web\BookStore\BookStore\bin\BookStore.pdb
+D:\web\BookStore\BookStore\bin\roslyn\csc.exe
+D:\web\BookStore\BookStore\bin\roslyn\csc.exe.config
+D:\web\BookStore\BookStore\bin\roslyn\csc.rsp
+D:\web\BookStore\BookStore\bin\roslyn\csi.exe
+D:\web\BookStore\BookStore\bin\roslyn\csi.exe.config
+D:\web\BookStore\BookStore\bin\roslyn\csi.rsp
+D:\web\BookStore\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\web\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\web\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\web\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\web\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\web\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\web\BookStore\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\web\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\web\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\web\BookStore\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+D:\web\BookStore\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\web\BookStore\BookStore\bin\roslyn\System.AppContext.dll
+D:\web\BookStore\BookStore\bin\roslyn\System.Collections.Immutable.dll
+D:\web\BookStore\BookStore\bin\roslyn\System.Console.dll
+D:\web\BookStore\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\web\BookStore\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\web\BookStore\BookStore\bin\roslyn\System.IO.Compression.dll
+D:\web\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.dll
+D:\web\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\web\BookStore\BookStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\web\BookStore\BookStore\bin\roslyn\System.IO.Pipes.dll
+D:\web\BookStore\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\web\BookStore\BookStore\bin\roslyn\System.Security.AccessControl.dll
+D:\web\BookStore\BookStore\bin\roslyn\System.Security.Claims.dll
+D:\web\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\web\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\web\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\web\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\web\BookStore\BookStore\bin\roslyn\System.Security.Principal.Windows.dll
+D:\web\BookStore\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\web\BookStore\BookStore\bin\roslyn\System.ValueTuple.dll
+D:\web\BookStore\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\web\BookStore\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+D:\web\BookStore\BookStore\bin\roslyn\System.Xml.XPath.dll
+D:\web\BookStore\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\web\BookStore\BookStore\bin\roslyn\vbc.exe
+D:\web\BookStore\BookStore\bin\roslyn\vbc.exe.config
+D:\web\BookStore\BookStore\bin\roslyn\vbc.rsp
+D:\web\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe
+D:\web\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe.config
+D:\web\BookStore\BookStore\bin\Antlr3.Runtime.dll
+D:\web\BookStore\BookStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\web\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\web\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+D:\web\BookStore\BookStore\bin\Newtonsoft.Json.dll
+D:\web\BookStore\BookStore\bin\System.Diagnostics.DiagnosticSource.dll
+D:\web\BookStore\BookStore\bin\System.Web.Helpers.dll
+D:\web\BookStore\BookStore\bin\System.Web.Mvc.dll
+D:\web\BookStore\BookStore\bin\System.Web.Optimization.dll
+D:\web\BookStore\BookStore\bin\System.Web.Razor.dll
+D:\web\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+D:\web\BookStore\BookStore\bin\System.Web.WebPages.dll
+D:\web\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+D:\web\BookStore\BookStore\bin\WebGrease.dll
+D:\web\BookStore\BookStore\bin\System.Web.Helpers.xml
+D:\web\BookStore\BookStore\bin\System.Web.Mvc.xml
+D:\web\BookStore\BookStore\bin\System.Web.Optimization.xml
+D:\web\BookStore\BookStore\bin\System.Web.Razor.xml
+D:\web\BookStore\BookStore\bin\System.Web.WebPages.xml
+D:\web\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+D:\web\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+D:\web\BookStore\BookStore\bin\Newtonsoft.Json.xml
+D:\web\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+D:\web\BookStore\BookStore\bin\System.Diagnostics.DiagnosticSource.xml
+D:\web\BookStore\BookStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\web\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\web\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+D:\web\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+D:\web\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+D:\web\BookStore\BookStore\obj\Debug\BookStore.dll
+D:\web\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\BookStore.dll.config
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\BookStore.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\BookStore.pdb
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\csc.exe
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\csc.exe.config
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\csc.rsp
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\csi.exe
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\csi.exe.config
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\csi.rsp
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.AppContext.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Console.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\vbc.exe
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\vbc.exe.config
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\vbc.rsp
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\Antlr3.Runtime.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\Newtonsoft.Json.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\System.Web.Helpers.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\System.Web.Mvc.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\System.Web.Optimization.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\System.Web.Razor.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\System.Web.WebPages.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\WebGrease.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\System.Web.Helpers.xml
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\System.Web.Mvc.xml
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\System.Web.Optimization.xml
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\System.Web.Razor.xml
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\System.Web.WebPages.xml
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\Newtonsoft.Json.xml
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\obj\Debug\BookStore.dll
+C:\Users\BaMao\Downloads\BookStore\BookStore\BookStore\obj\Debug\BookStore.pdb
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\BookStore.dll.config
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\BookStore.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\BookStore.pdb
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\csc.exe
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\csc.exe.config
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\csc.rsp
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\csi.exe
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\csi.exe.config
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\csi.rsp
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\System.AppContext.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\System.Collections.Immutable.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\System.Console.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\System.IO.Compression.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\System.IO.Pipes.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\System.Security.AccessControl.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Claims.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Principal.Windows.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\System.ValueTuple.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\System.Xml.XPath.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\vbc.exe
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\vbc.exe.config
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\vbc.rsp
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe.config
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\Antlr3.Runtime.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\Newtonsoft.Json.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\System.Diagnostics.DiagnosticSource.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\System.Web.Helpers.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\System.Web.Mvc.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\System.Web.Optimization.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\System.Web.Razor.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\System.Web.WebPages.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\WebGrease.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\System.Web.Helpers.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\System.Web.Mvc.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\System.Web.Optimization.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\System.Web.Razor.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\System.Web.WebPages.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\Newtonsoft.Json.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\System.Diagnostics.DiagnosticSource.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\obj\Debug\BookStore.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\obj\Debug\BookStore.pdb
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\PagedList.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\PagedList.Mvc.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\PagedList.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\bin\PagedList.Mvc.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\BookStore.dll.config
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\BookStore.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\BookStore.pdb
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\csc.exe
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\csc.exe.config
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\csc.rsp
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\csi.exe
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\csi.exe.config
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\csi.rsp
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\System.AppContext.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\System.Collections.Immutable.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\System.Console.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\System.IO.Compression.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\System.IO.Pipes.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\System.Security.AccessControl.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Claims.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Principal.Windows.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\System.ValueTuple.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\System.Xml.XPath.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\vbc.exe
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\vbc.exe.config
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\vbc.rsp
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe.config
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\Antlr3.Runtime.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\Newtonsoft.Json.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\PagedList.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\PagedList.Mvc.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\System.Diagnostics.DiagnosticSource.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\System.Web.Helpers.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\System.Web.Mvc.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\System.Web.Optimization.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\System.Web.Razor.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\System.Web.WebPages.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\WebGrease.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\PagedList.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\PagedList.Mvc.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\System.Web.Helpers.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\System.Web.Mvc.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\System.Web.Optimization.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\System.Web.Razor.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\System.Web.WebPages.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\Newtonsoft.Json.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\System.Diagnostics.DiagnosticSource.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\obj\Debug\BookStore.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\BookStore\BookStore\obj\Debug\BookStore.pdb
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\BookStore.dll.config
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\BookStore.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\BookStore.pdb
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\csc.exe
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\csc.exe.config
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\csc.rsp
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\csi.exe
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\csi.exe.config
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\csi.rsp
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\System.AppContext.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\System.Collections.Immutable.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\System.Console.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\System.IO.Compression.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\System.IO.Pipes.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\System.Security.AccessControl.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\System.Security.Claims.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\System.Security.Principal.Windows.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\System.ValueTuple.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\System.Xml.XPath.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\vbc.exe
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\vbc.exe.config
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\vbc.rsp
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe.config
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\Antlr3.Runtime.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\Newtonsoft.Json.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\PagedList.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\PagedList.Mvc.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\System.Diagnostics.DiagnosticSource.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\System.Web.Helpers.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\System.Web.Mvc.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\System.Web.Optimization.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\System.Web.Razor.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\System.Web.WebPages.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\WebGrease.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\PagedList.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\PagedList.Mvc.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\System.Web.Helpers.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\System.Web.Mvc.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\System.Web.Optimization.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\System.Web.Razor.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\System.Web.WebPages.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\Newtonsoft.Json.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\System.Diagnostics.DiagnosticSource.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\obj\Debug\BookStore.dll
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\obj\Debug\BookStore.pdb
+D:\huetch\Lập trình web\BaigiangMVC5\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\obj\Debug\BookStore.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\BookStore.dll.config
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\BookStore.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\BookStore.pdb
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\Antlr3.Runtime.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\PagedList.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\PagedList.Mvc.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\System.Web.Helpers.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\System.Web.Mvc.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\System.Web.Optimization.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\System.Web.Razor.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\System.Web.WebPages.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\WebGrease.dll
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\PagedList.xml
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\PagedList.Mvc.xml
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\System.Web.Helpers.xml
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\System.Web.Mvc.xml
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\System.Web.Optimization.xml
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\System.Web.Razor.xml
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\System.Web.WebPages.xml
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\HutechShirt\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\BookStore.dll.config
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\BookStore.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\BookStore.pdb
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\csc.exe
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\csc.exe.config
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\csc.rsp
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\csi.exe
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\csi.exe.config
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\csi.rsp
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.AppContext.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Collections.Immutable.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Console.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.IO.Compression.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.IO.Pipes.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Security.AccessControl.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Security.Claims.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.ValueTuple.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Xml.XPath.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\vbc.exe
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\vbc.exe.config
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\vbc.rsp
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe.config
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\Antlr3.Runtime.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\Newtonsoft.Json.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\PagedList.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\PagedList.Mvc.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Diagnostics.DiagnosticSource.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.Helpers.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.Mvc.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.Optimization.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.Razor.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.WebPages.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\WebGrease.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\PagedList.xml
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\PagedList.Mvc.xml
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.Helpers.xml
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.Mvc.xml
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.Optimization.xml
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.Razor.xml
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.WebPages.xml
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\Newtonsoft.Json.xml
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Diagnostics.DiagnosticSource.xml
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\obj\Debug\BookStore.dll
+C:\D\HutechShirt\HutechShirt\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\obj\Debug\BookStore.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\BookStore.dll.config
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\BookStore.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\BookStore.pdb
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\csc.rsp
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\csi.exe
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\csi.exe.config
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\csi.rsp
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Console.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\PagedList.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\PagedList.Mvc.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\PagedList.xml
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\PagedList.Mvc.xml
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\HutechShirt\HutechShirt\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\BookStore.dll.config
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\BookStore.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\BookStore.pdb
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\PagedList.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\WebGrease.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\PagedList.xml
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\obj\Debug\BookStore.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\HutechShirt\HutechShirt\HutechShirt\BookStore\BookStore\bin\EntityFramework.SqlServer.xml
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\BookStore.dll.config
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\BookStore.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\BookStore.pdb
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\csc.exe
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\csc.exe.config
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\csc.rsp
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\csi.exe
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\csi.exe.config
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\csi.rsp
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\System.AppContext.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\System.Collections.Immutable.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\System.Console.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\System.IO.Compression.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\System.IO.Pipes.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\System.Security.AccessControl.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Claims.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Principal.Windows.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\System.ValueTuple.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\System.Xml.XPath.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\vbc.exe
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\vbc.exe.config
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\vbc.rsp
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe.config
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\Antlr3.Runtime.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\EntityFramework.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\EntityFramework.SqlServer.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\Newtonsoft.Json.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\PagedList.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\PagedList.Mvc.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\System.Diagnostics.DiagnosticSource.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\System.Net.Http.Formatting.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\System.Web.Helpers.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\System.Web.Http.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\System.Web.Http.WebHost.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\System.Web.Mvc.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\System.Web.Optimization.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\System.Web.Razor.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\System.Web.WebPages.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\WebGrease.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\EntityFramework.xml
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\EntityFramework.SqlServer.xml
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\PagedList.xml
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\PagedList.Mvc.xml
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\System.Net.Http.Formatting.xml
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\System.Web.Http.xml
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\System.Web.Http.WebHost.xml
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\System.Web.Helpers.xml
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\System.Web.Mvc.xml
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\System.Web.Optimization.xml
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\System.Web.Razor.xml
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\System.Web.WebPages.xml
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\Newtonsoft.Json.xml
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\System.Diagnostics.DiagnosticSource.xml
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\TemplatesHTML\BookStore\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TemplatesHTML\BookStore\BookStore\BookStore\obj\Debug\BookStore.dll
+D:\TemplatesHTML\BookStore\BookStore\BookStore\obj\Debug\BookStore.pdb
+D:\TemplatesHTML\BookStore\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+D:\TemplatesHTML\BookStore\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+D:\TemplatesHTML\BookStore\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\BookStore.dll.config
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\BookStore.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\BookStore.pdb
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\csc.exe
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\csc.rsp
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\csi.exe
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\csi.exe.config
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\csi.rsp
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Console.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\vbc.exe
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\EntityFramework.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\PagedList.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\PagedList.Mvc.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\System.Web.Http.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\System.Web.Razor.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\WebGrease.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\EntityFramework.xml
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\PagedList.xml
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\PagedList.Mvc.xml
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\System.Web.Http.xml
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\System.Web.Razor.xml
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\obj\Debug\BookStore.dll
+C:\Users\Administrator\Downloads\BookStore\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\BookStore.dll.config
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\BookStore.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\BookStore.pdb
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\csc.rsp
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\csi.exe
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\csi.exe.config
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\csi.rsp
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\System.Console.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\PagedList.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\PagedList.Mvc.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\System.Web.Http.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\PagedList.xml
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\PagedList.Mvc.xml
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\System.Web.Http.xml
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\obj\Debug\BookStore.dll
+C:\Users\Administrator\Desktop\BookStore\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\BookStore.dll.config
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\BookStore.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\BookStore.pdb
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\PagedList.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\WebGrease.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\PagedList.xml
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.csproj.CopyComplete
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.dll
+C:\Users\Admin\Desktop\BookStore2\BookStore\BookStore\BookStore\obj\Debug\BookStore.pdb

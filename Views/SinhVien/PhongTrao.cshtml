@@ -1,0 +1,78 @@
+﻿@using BookStore.Model
+@model IEnumerable<BookStore.Model.PhongTrao>
+
+@{
+    ViewBag.Title = "PhongTrao";
+    Layout = "~/Views/Shared/_LayoutSVDN.cshtml";
+}
+    <h2 style="color:orangered">Phong Trào</h2>
+    <p>
+        @*<a href="@Url.Action("Create", "Create")" class="btn btn-info" role="button" style="border:none"><i class="material-icons" ></i></a>*@
+        <a href="@Url.Action("ThemmoiPT","SinhVien")" class="btn btn-info" role="button">Thêm Phong Trào</a>
+    </p>
+@using (Html.BeginForm("PhongTrao", "SinhVien", FormMethod.Post, new { @enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+    <div class="form-horizontal">
+
+        <table class="table">
+            <tr>
+                @*<th>
+                        @Html.DisplayNameFor(model => model.HoTen)
+                    </th>*@
+                <th style="width:200px">
+                    Tên Phong Trào
+                </th>
+                @*<th>
+                        @Html.DisplayNameFor(model => model.Matkhau)
+                    </th>*@
+                <th style="width:100px">
+                    Điểm
+                </th>
+                @*<th>
+                        @Html.DisplayNameFor(model => model.Email)
+                    </th>*@
+                <th style="width:120px">
+                    Ảnh Minh Chứng
+                </th>
+
+
+                <th style="width:120px">
+                    Đã Hoàn Thành
+                </th>
+                <th style="width:200px"></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Ten_PT)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Diem_PT)
+                    </td>
+                    <td>
+                        <input type="file" name="fileUpload" />
+                    </td>
+
+                    <td>
+                        @Html.CheckBox("IsChecked", new { @class = "form-control" })
+                    </td>
+                </tr>
+            }
+
+        </table>
+
+
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Luu Thay Doi" class="btn btn-primary" />
+            </div>
+        </div>
+
+    </div>
+}
+
+

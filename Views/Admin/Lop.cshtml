@@ -1,0 +1,41 @@
+﻿@model IEnumerable<BookStore.Model.Lop>
+
+@{
+    ViewBag.Title = "Lop";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+    <h2>Lớp học</h2>
+
+<p>
+    <a href="@Url.Action("ThemLop","Admin")" class="btn btn-info" role="button">Thêm Lớp</a>
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Mã Khoa
+        </th>
+        <th>
+            Tên Lớp
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+
+    <td>
+        @Html.DisplayFor(modelItem => item.MaKhoa)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.TenLop)
+    </td>
+    <td>
+        
+        <a href="@Url.Action("SuaLop", "Admin", new { id = item.MaLop })" class="btn btn-info" role="button" style="background-color:green; border:none"><i class="fa fa-edit"></i></a>
+
+    </td>
+</tr>
+}
+
+</table>

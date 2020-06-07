@@ -1,0 +1,73 @@
+﻿@model BookStore.Model.SinhVien
+
+@{
+    ViewBag.Title = "Xoasv";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+    <h2 style="text-align:center;color:blue">Thông tin Sinh Viên</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>SinhVien</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Masv)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HoTen)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Matkhau)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Matkhau)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Diachisv)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Diachisv)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Dienthoaisv)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Dienthoaisv)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Ngaysinh)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ngaysinh)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+<div class="form-actions no-color">
+    <input class="btn btn-info" type="submit" style="border:none; background-color:red;width:100px" value="Xóa" />
+    <a href="@Url.Action("SinhVien", "Admin")" class="btn btn-info" role="button" style="width:100px">Trở về</a>
+</div>
+    }
+</div>

@@ -1,0 +1,179 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+    font-family: Arial, Vendera, Tahoma;
+    font-size: 10pt;
+    color: #000;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul {
+    list-style: square;
+}
+
+#divLogin {
+    text-align: left;
+    margin: auto;
+    background: #F1F1F1;
+    border: 1px solid #c5c5c5;
+    border-radius: 10px 10px 10px 10px;
+    padding: 20px;
+    background: -webkit-gradient(linear, left top, left bottom, from(#F7F7F7), to(white));
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#F7F7F7, endColorstr=#ffffff);
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#f7f7f7, endColorstr=#ffffff)";
+}
+
+#divWelcome {
+    display: block;
+    text-align: left;
+    margin: auto;
+    border-bottom: 1px solid #c5c5c5;
+    height: 110px;
+
+
+}
+
+#divLogin .headerLogin {
+    font-size: 11pt;
+    padding-bottom: 10px;
+    color: #007F49;
+
+}
+
+#divLogin .content {
+    padding-top: 2px;
+}
+
+#divLogin .inputbox {
+    width: 100%;
+    border: 1px solid #7f9db9;
+    border-radius: 10px 10px 10px 10px;
+    min-height: 25px;
+}
+
+fieldset {
+    padding: 3px;
+    border: solid 1px #7f9db9;
+}
+
+legend {
+    padding: 0 4px;
+    color: #215a91;
+}
+
+#divFooter {
+
+    line-height: 20px;
+
+}
+
+.loginLeft {
+    float: left;
+    display: block;
+    padding: 10px;
+    width: 55%;
+
+    line-height: 20px;
+    text-align: left;
+
+
+}
+
+.loginRight {
+    float: right;
+    display: block;
+    padding: 10px;
+    width: 35%;
+
+}
+
+#welcomeLogo {
+    float: left;
+    display: block;
+}
+
+#welcomeTitle {
+    float: left;
+    display: block;
+    height: 100px;
+    text-align: left;
+    vertical-align: middle;
+    width: auto;
+    color: blueviolet;
+    font-size: 16pt;
+    font-weight: bold;
+    margin: 0 0 10px 0;
+}
+
+#welcomeTitle p {
+    line-height: 1.5;
+    margin: 70;
+}
+
+#loginSeparate {
+    display: block;
+    border-top: 1px solid #CCC;
+    border-bottom: 1px solid white;
+    margin-top: 10px;
+    height: 1px;
+    margin-bottom: 10px;
+}
+
+#footer {
+    clear: both;
+    min-height: 70px;
+    padding-top: 5px;
+    margin-top: 2px;
+    margin-bottom: 3px;
+    background-color: #F7F7F7;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background: -webkit-gradient(linear, left top, left bottom, from(#FAFBFB), to(#EBECEC));
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#fafbfb, endColorstr=#EBECEC);
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#fafbfb , endColorstr=#EBECEC)";
+    border: solid 1px #C5C5C5;
+    border-top: none;
+}
+
+#footerLeft {
+    display: block;
+    float: left;
+    width: 200px;
+    height: 100%;
+    padding-right: 5px;
+    text-align: right;
+
+}
+
+.footerSep {
+    display: block;
+    float: left;
+    width: 2px;
+    height: 60px;
+    border-left: 2px solid #007F49;
+}
+
+#footerRight {
+    display: block;
+    float: left;
+    color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    padding: 0px 5px 0px 5px;
+    text-align: left;
+}
+
+.numberOnline {
+    font-weight: bold;
+    color: #A00000;
+}
